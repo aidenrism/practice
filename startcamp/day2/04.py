@@ -42,7 +42,6 @@ for number in numbers:
     if number % 2 ==1:
         print(f'{number}는 홀수입니다.', end='')
 
-
 # sss = []
 # 통과한 홀수들을 리스트에 쌓기 
 # {리스트}는 홀수입니다.
@@ -56,3 +55,4 @@ from bs4 import BeautifulSoup
 # copy 카피 셀렉터
 
 # BeautifulSoup.select_one(#KOSPI_now)
+
